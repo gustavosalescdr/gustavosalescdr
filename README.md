@@ -54,14 +54,6 @@ Exploração e visualização de dados com Python.
 
 ---
 
-## 📈 Estatísticas do GitHub
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gustavosalescdr&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosalescdr&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-</p>
-
----
-
 ## 🤝 Vamos nos conectar?
 💼 LinkedIn:  
 https://www.linkedin.com/in/gustavo-gilson-arruda-sales-957738366/
