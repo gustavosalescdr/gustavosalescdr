@@ -48,7 +48,7 @@ Atualmente estudando:
 
 ## 🤝 Vamos nos conectar?
 💼 LinkedIn:  
-https://www.linkedin.com/in/gustavo-gilson-arruda-sales-957783866
+https://www.linkedin.com/in/gustavo-gilson-arruda-sales-957738366/
 
 📫 Sempre aberto a networking e oportunidades na área de tecnologia.
 
